@@ -5,3 +5,4 @@
 
    结构/index
    IO输入输出/index
+   控制/index
