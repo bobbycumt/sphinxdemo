@@ -14,8 +14,8 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-# extensions = ['recommonmark','sphinx_markdown_tables']
-extensions = []
+extensions = ['recommonmark','sphinx_markdown_tables']
+# extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -25,7 +25,6 @@ language = 'zh_CN'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-pip install sphinx_rtd_theme
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
