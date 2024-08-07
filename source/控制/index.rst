@@ -2,6 +2,6 @@
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 
+   :caption: 控制
 
    控制
