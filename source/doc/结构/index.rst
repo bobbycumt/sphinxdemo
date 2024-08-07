@@ -2,6 +2,6 @@
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: 结构
 
    结构
