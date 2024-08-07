@@ -16,7 +16,7 @@ release = '1.0'
 
 #extensions = ['recommonmark','sphinx_markdown_tables']
 # extensions = ['sphinx_markdown_tables']
-extensions = []
+extensions = ['recommonmark','sphinx_markdown_tables','sphinx_rtd_theme']
 
 templates_path = ['_templates']
 exclude_patterns = []
