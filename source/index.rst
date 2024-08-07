@@ -3,8 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-感谢使用arduino函数文档，根据左侧功能大类对应函数位置
-刘博老师制作
+欢迎使用Arduino函数文档!
 ================================
 
 .. toctree::
