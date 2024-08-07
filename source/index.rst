@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: 功能目录
 
    doc/index
 
