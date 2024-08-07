@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'test'
-copyright = '2024, test'
-author = 'test'
+project = 'Arduino函数'
+copyright = '2024, 优启未来'
+author = '刘博'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
