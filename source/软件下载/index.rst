@@ -4,4 +4,4 @@
    :maxdepth: 1
    :caption: 上课使用的软件
 
-   mixly2.7z
+   download
