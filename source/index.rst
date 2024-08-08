@@ -14,4 +14,14 @@
    结构/index
    IO输入输出/index
    控制/index
+   数据类型/index
+   字符串/index
+   数学/index
+   逻辑运算/index
+   串口/index
+   扩展库的安装和使用/index
+   传感器/index
+   执行器/index
+   显示器/index
+   通信/index
 
