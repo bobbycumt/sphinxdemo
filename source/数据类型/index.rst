@@ -5,11 +5,11 @@
    :caption: 常用数据类型
 
    void
-   bool
+   int
+   float
    char
    ascii
+   bool
    byte
-   int
    long
-   float
    double
