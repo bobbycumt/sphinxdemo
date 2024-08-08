@@ -1,13 +1,16 @@
-控制
+字符串
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: String的相关函数
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   声明
+   charAt
+   equals
+   length
+   substring
+   toInt
+   toFloat
+   toLowerCase
+   toUpperCase
+   trim
