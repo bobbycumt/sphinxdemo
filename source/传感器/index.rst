@@ -1,13 +1,8 @@
-控制
+传感器
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: 调用外部函数库的传感器
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   DHT11
+   Ultrasonic
