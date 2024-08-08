@@ -1,13 +1,7 @@
-控制
+显示器
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: 数码管和显示屏
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   1602

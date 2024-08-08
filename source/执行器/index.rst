@@ -1,13 +1,8 @@
-控制
+执行器
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: 舵机和蜂鸣器等
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   蜂鸣器
+   舵机
