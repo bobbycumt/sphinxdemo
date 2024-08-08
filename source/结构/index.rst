@@ -4,5 +4,5 @@
    :maxdepth: 2
    :caption: 程序框架
 
-   setup()/index
-   loop()/index
+   setup
+   loop
