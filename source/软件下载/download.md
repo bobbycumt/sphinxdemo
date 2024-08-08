@@ -3,5 +3,3 @@
 ## [arduino-cli](http://www.cele-tech.com:5000/sharing/F0KFnTL4j)
 
 ## [CH340串口驱动](http://www.cele-tech.com:5000/sharing/ehKwQro7V)
-
-## <a href="./ch341ser.exe" target="_blank">CH340串口驱动</a>
