@@ -1,7 +1,8 @@
 结构
 =================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: 程序框架
 
-   结构
+   setup()/index
+   loop()/index
