@@ -4,4 +4,4 @@
 
 ## [CH340串口驱动](http://www.cele-tech.com:5000/sharing/ehKwQro7V)
 
-## [CH340串口驱动](./ch341ser.exe)
+## <a href="./ch341ser.exe" target="_blank">CH340串口驱动</a>
