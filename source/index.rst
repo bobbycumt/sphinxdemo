@@ -24,4 +24,5 @@
    执行器/index
    显示器/index
    通信/index
+   软件下载/index
 
