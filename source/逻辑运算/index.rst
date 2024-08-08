@@ -1,13 +1,9 @@
-控制
+逻辑运算
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: 与或非
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   与
+   或
+   非

@@ -1,13 +1,8 @@
-控制
+扩展库的安装和使用
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: 使用外部库需要安装
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   安装
+   使用

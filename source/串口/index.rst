@@ -1,13 +1,10 @@
-控制
+串口
 =============
 .. toctree::
    :maxdepth: 1
-   :caption: 控制结构和时间函数\nif：条件
+   :caption: 串口的发送与接收
 
-   if
-   if...else
-   for
-   while
-   delay
-   delayMicroseconds
-   millis
+   begin
+   println
+   available
+   readString
