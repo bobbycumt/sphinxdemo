@@ -4,4 +4,8 @@ IO输入输出
    :maxdepth: 1
    :caption: 引脚控制函数
 
-   IO输入输出
+   pinMode
+   digitalWrite
+   digitalRead
+   analogWrite
+   analogRead
