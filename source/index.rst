@@ -7,7 +7,7 @@
 ================================
 刘博老师制作
 
-.. image:: ./MONO-INC.-Together-Till-The-End.jpg
+.. image:: ./a.jpg
    
 .. toctree::
    :maxdepth: 3
