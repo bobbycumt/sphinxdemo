@@ -6,5 +6,5 @@
 
 ## [蓝桥杯真题](http://www.cele-tech.com:5000/sharing/ZA05Nnp39)
 
-## [DEV C++](https://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C%2B%2B%204.9.9.2/devcpp-4.9.9.2_setup.exe/download)
+## [DEV C++](https://sw.pcmgr.qq.com/e87d75a7bb75e53082608ef40941973c/66b81f5d/spcmgr/download/Dev-Cpp_5.11_TDM-GCC_4.9.2_Setup.exe)
 
