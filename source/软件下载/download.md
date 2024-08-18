@@ -8,7 +8,7 @@
 
 ## [Thonny](http://tslb.i234.me:5000/sharing/W4OpWsUwk)
 
-## [蓝桥杯真题](http://www.cele-tech.com:5000/sharing/ZA05Nnp39)
+## [蓝桥杯真题](http://www.cele-tech.com:5000/sharing/HK36AJjfB)
 
 ## [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user)
 
