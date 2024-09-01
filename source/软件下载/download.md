@@ -19,3 +19,5 @@
 ## [谷歌浏览器](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B8DFA7F4B-A60F-278B-84C2-338237943B54%7D%26lang%3Dzh-CN%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe)
 
 ## [向日葵](https://sunlogin.oray.com/download)
+
+## [WinSCP](https://winscp.net/eng/download.php)
