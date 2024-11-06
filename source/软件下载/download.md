@@ -12,7 +12,7 @@
 
 ## [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user)
 
-## [DEV C++](https://pc.qq.com/detail/16/detail_163136.html)
+## [DEV C++](https://logserviceccf.oss-cn-hangzhou.aliyuncs.com/Dev-Cpp%205.11%20TDM-GCC%204.9.2.exe)
 
 ## [360压缩](https://www.360totalsecurity.com/zh-cn/download-free-360-zip/)
 
