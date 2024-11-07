@@ -1,8 +1,6 @@
 ## pinMode：引脚模式设定
 引脚模式设定，通常在setup函数里，三种引脚模式
 
-> [!IMPORTANT]
->
 > OUTPUT：输出模式
 >
 > INPUT：输入模式
