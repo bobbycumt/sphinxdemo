@@ -1,20 +1,28 @@
-## 软件下载
+## arduino
 
 ### [mixly 2.0](http://www.cele-tech.com:5000/sharing/m949pbl1c)
 
 ### [arduino-cli](https://downloads.arduino.cc/arduino-cli/arduino-cli_latest_Windows_64bit.zip)
 
+### [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user)
+
 ### [CH340串口驱动](https://www.wch.cn/downloads/file/65.html)
 
 ### [Arduino IDE](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.exe)
 
-### [Thonny](http://tslb.i234.me:5000/sharing/W4OpWsUwk)
-
 ### [蓝桥杯真题](http://www.cele-tech.com:5000/sharing/HK36AJjfB)
 
-### [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user)
+## ESP32 micropython
+
+### [Thonny](http://tslb.i234.me:5000/sharing/W4OpWsUwk)
+
+## C++
 
 ### [DEV C++](https://logserviceccf.oss-cn-hangzhou.aliyuncs.com/Dev-Cpp%205.11%20TDM-GCC%204.9.2.exe)
+
+### [Code::Blocks](https://sourceforge.net/projects/codeblocks/files/latest/download)
+
+## 常用软件
 
 ### [360压缩](https://www.360totalsecurity.com/zh-cn/download-free-360-zip/)
 
