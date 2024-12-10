@@ -8,7 +8,7 @@
 
 ### [CH340串口驱动](https://www.wch.cn/downloads/file/65.html)
 
-### [Arduino IDE](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.exe)
+### [Arduino IDE](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_Windows_64bit.exe)
 
 ### [蓝桥杯真题](http://www.cele-tech.com:5000/sharing/HK36AJjfB)
 
