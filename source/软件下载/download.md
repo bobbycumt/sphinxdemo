@@ -12,9 +12,11 @@
 
 <font size="5">**[Arduino IDE](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_Windows_64bit.exe)**</font>
 
+<font size="5">**[ESP32库安装](http://www.cele-tech.com:5000/sharing/xOCNzIuSd)**</font>
+
 <font size="5">**[蓝桥杯真题](http://www.cele-tech.com:5000/sharing/HK36AJjfB)**</font>
 
-<font size="5">**[Thonny](http://tslb.i234.me:5000/sharing/W4OpWsUwk)**</font>
+<font size="5">**[Thonny](http://www.cele-tech.com:5000/sharing/W4OpWsUwk)**</font>
 
 <font size="5">**[DEV C++](https://logserviceccf.oss-cn-hangzhou.aliyuncs.com/Dev-Cpp%205.11%20TDM-GCC%204.9.2.exe)**</font>
 
