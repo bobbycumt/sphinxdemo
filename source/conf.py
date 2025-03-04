@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Arduino函数'
-copyright = '2024, 优启未来刘博'
+copyright = '2025, 优启未来刘博'
 author = '刘博'
 release = '1.0'
 
