@@ -20,7 +20,7 @@
 
 <font size="5">**[DEV C++](https://logserviceccf.oss-cn-hangzhou.aliyuncs.com/Dev-Cpp%205.11%20TDM-GCC%204.9.2.exe)**</font>
 
-<font size="5">**[Code::Blocks](https://sourceforge.net/projects/codeblocks/files/latest/download)**</font>
+<font size="5">**[Code::Blocks](http://www.cele-tech.com:5000/sharing/JTleWhogX)**</font>
 
 <font size="5">**[360压缩](https://www.360totalsecurity.com/zh-cn/download-free-360-zip/)**</font>
 
