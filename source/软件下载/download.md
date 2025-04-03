@@ -16,7 +16,7 @@
 
 <font size="5">**[蓝桥杯真题](http://www.cele-tech.com:5000/sharing/HK36AJjfB)**</font>
 
-<font size="5">**[Thonny](http://www.cele-tech.com:5000/sharing/W4OpWsUwk)**</font>
+<font size="5">**[Thonny](http://www.cele-tech.com:5000/sharing/UGVKy2eVw)**</font>
 
 <font size="5">**[DEV C++](https://logserviceccf.oss-cn-hangzhou.aliyuncs.com/Dev-Cpp%205.11%20TDM-GCC%204.9.2.exe)**</font>
 
