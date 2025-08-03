@@ -13,7 +13,8 @@
 .. toctree::
    :maxdepth: 3
    :caption: 功能目录
-
+   :math:`\sigma_{1}`
+   
    结构/index
    IO输入输出/index
    控制/index
