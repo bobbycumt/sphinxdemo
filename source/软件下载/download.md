@@ -8,7 +8,7 @@
 
 <font size="5">**[Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user)**</font>
 
-<font size="5">**[CH340串口驱动](https://www.wch.cn/downloads/file/65.html)**</font>
+<font size="5">**[CH340串口驱动](https://file.wch.cn/download/file?id=65)**</font>
 
 <font size="5">**[Arduino IDE](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_Windows_64bit.exe)**</font>
 
